@@ -1,0 +1,85 @@
+@font-face {
+	font-family: 'Manrope';
+	src: url('./fonts/manrope/Manrope-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Manrope-bold';
+	src: url('./fonts/manrope/Manrope-Bold.ttf');
+}
+
+@font-face {
+	font-family: 'Manrope-xbold';
+	src: url('./fonts/manrope/Manrope-ExtraBold.ttf');
+}
+
+@font-face {
+	font-family: 'Manrope-light';
+	src: url('./fonts/manrope/Manrope-Light.ttf');
+}
+
+@font-face {
+	font-family: 'Manrope-medium';
+	src: url('./fonts/manrope/Manrope-Medium.ttf');
+}
+
+@font-face {
+	font-family: 'Manrope-semi';
+	src: url('./fonts/manrope/Manrope-SemiBold.ttf');
+}
+
+@font-face {
+	font-family: 'Manrope-xlight';
+	src: url('./fonts/manrope/Manrope-ExtraLight.ttf');
+}
+
+@font-face {
+	font-family: 'Poppins';
+	src: url('./fonts/poppins/Poppins-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Poppins-bold';
+	src: url('./fonts/poppins/Poppins-Bold.ttf');
+}
+
+@font-face {
+	font-family: 'Poppins-black';
+	src: url('./fonts/poppins/Poppins-Black.ttf');
+}
+
+@font-face {
+	font-family: 'Poppins-light';
+	src: url('./fonts/poppins/Poppins-Light.ttf');
+}
+
+@font-face {
+	font-family: 'Poppins-semi';
+	src: url('./fonts/poppins/Poppins-SemiBold.ttf');
+}
+
+@font-face {
+	font-family: 'Poppins-xbold';
+	src: url('./fonts/poppins/Poppins-ExtraBold.ttf');
+}
+
+@font-face {
+	font-family: 'Poppins-medium';
+	src: url('./fonts/poppins/Poppins-Medium.ttf');
+}
+
+@font-face {
+	font-family: 'DMSans';
+	src: url('./fonts/dmsans/DMSans-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'DMSans-medium';
+	src: url('./fonts/dmsans/DMSans-Medium.ttf');
+}
+
+@font-face {
+	font-family: 'DMSans-bold';
+	src: url('./fonts/dmsans/DMSans-Bold.ttf');
+}
+
